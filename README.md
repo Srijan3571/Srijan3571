@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Srijan3571
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Data structures and Algorithms
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a Competitive Programmer 
 - 📫 How to reach me 
 - Mob.No- 8210668019
 - E-Mail : Srijankrishna809@gmail.com
