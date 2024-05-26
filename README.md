@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Srijan3571
+- 👋 Hi, I’m @Srijan Krishna
 - 👀 I’m interested in Web Development
 - 🌱 I’m a Competitive Programmer 
 - 📫 How to reach me 
